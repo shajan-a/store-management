@@ -33,3 +33,38 @@ C:\Users\SHAJAN\documents\visual studio 2015\Projects\StockManagement\BAL\bin\Mi
 C:\Users\SHAJAN\documents\visual studio 2015\Projects\StockManagement\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
 C:\Users\SHAJAN\documents\visual studio 2015\Projects\StockManagement\BAL\obj\Debug\BAL.dll
 C:\Users\SHAJAN\documents\visual studio 2015\Projects\StockManagement\BAL\obj\Debug\BAL.pdb
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\ApplicationInsights.config
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\roslyn\csc.exe
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\roslyn\vbc.exe
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\roslyn\VBCSCompiler.exe
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\BAL.dll.config
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\BAL.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\BAL.pdb
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\DAL.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.AI.Web.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\DAL.pdb
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.AI.Web.xml
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\obj\Debug\BAL.dll
+C:\Users\shajan.abdul\Documents\GitHub\store-management\BAL\obj\Debug\BAL.pdb

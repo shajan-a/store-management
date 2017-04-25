@@ -28,6 +28,9 @@
             </asp:GridView>
             <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:DBCS %>" SelectCommand="SELECT [Id], [UserId], [ItemId], [Stock], [Accessdate], [DeptId], [RolesId] FROM [tbl_StockTrack]">
             </asp:SqlDataSource>
+            <asp:Button ID="Create" runat="server" Text="Add" OnClick="Create_Click" />
+            <asp:Button ID="Update" runat="server" Text="Change" OnClick="Update_Click" />
+            <asp:Button ID="Delete" runat="server" Text="Delete" OnClick="Delete_Click" />
         </div>
     </div>
 </asp:Content>
