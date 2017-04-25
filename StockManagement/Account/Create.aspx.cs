@@ -13,5 +13,10 @@ namespace StockManagement.Account
         {
 
         }
+
+        protected void Add_Click(object sender, EventArgs e)
+        {
+            Add.PostBackUrl = "~/Account/Store.aspx";
+        }
     }
 }

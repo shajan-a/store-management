@@ -13,5 +13,10 @@ namespace StockManagement.Account
         {
 
         }
+
+        protected void Purge_Click(object sender, EventArgs e)
+        {
+            Purge.PostBackUrl = "~/Account/Store.aspx";
+        }
     }
 }

@@ -13,5 +13,10 @@ namespace StockManagement.Account
         {
 
         }
+
+        protected void Change_Click(object sender, EventArgs e)
+        {
+            Change.PostBackUrl = "~/Account/Store.aspx";
+        }
     }
 }

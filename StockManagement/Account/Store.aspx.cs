@@ -21,12 +21,12 @@ namespace StockManagement.Account
 
         protected void Update_Click(object sender, EventArgs e)
         {
-            Update.PostBackUrl = "~/Account/Update.aspx";
+            Update.PostBackUrl = "~/Account/Delete.aspx";
         }
 
         protected void Delete_Click(object sender, EventArgs e)
         {
-            Delete.PostBackUrl = "~/Account/Delete.aspx";
+            Delete.PostBackUrl = "~/Account/Delete1.aspx";
         }
     }
 }
