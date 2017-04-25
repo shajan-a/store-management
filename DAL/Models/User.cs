@@ -18,7 +18,7 @@ namespace DAL.Models
         public IList<Items> LstItems { get; set; }
         public int Count { get; set; }
         public int Date { get; set; }
-        public int UserId { get; set; }
+        public string UserName { get; set; }
         public int DeptId { get; set; }
         public int RoleId { get; set; }
     }

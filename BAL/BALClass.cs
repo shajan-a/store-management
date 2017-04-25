@@ -6,6 +6,7 @@ using System.Web;
 using DAL;
 using DAL.Models;
 using Microsoft.ApplicationInsights.Extensibility.Implementation;
+using Record = BAL.Models.Record;
 
 namespace BAL
 {
@@ -41,6 +42,64 @@ namespace BAL
             }
 
             return userdto;
+        }
+
+        public static void DeleteEntry(Record record)
+        {
+            DAL.Models.Record recorddto = new DAL.Models.Record
+            {
+                UserName = record.UserName,
+                LstItems = new List<Items>
+                {
+                    new Items
+                    {
+                        Item = record.LstItems[0].Item
+                    }
+                },
+                Count = record.Count,
+                DeptId = record.DeptId,
+                RoleId = record.RoleId
+            };
+            DalClass.DeleteEntry(recorddto);
+        }
+
+        public static void UpdateEntry(Record record)
+        {
+            DAL.Models.Record recorddto = new DAL.Models.Record
+            {
+                UserName = record.UserName,
+                LstItems = new List<Items>
+                {
+                    new Items
+                    {
+                        Item = record.LstItems[0].Item
+                    }
+                },
+                Count = record.Count,
+                DeptId = record.DeptId,
+                RoleId = record.RoleId
+            };
+            DalClass.UpdateEntry(recorddto);
+        }
+
+        public static void AddEntry(Record record)
+        {
+            DAL.Models.Record recorddto = new DAL.Models.Record
+            {
+                UserName = record.UserName,
+                LstItems = new List<Items>
+                {
+                    new Items
+                    {
+                        Item = record.LstItems[0].Item
+                    }
+                },
+                Count = record.Count,
+                DeptId = record.DeptId,
+                RoleId = record.RoleId
+            };
+
+            DalClass.AddEntry(recorddto);
         }
     }
 }

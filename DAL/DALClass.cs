@@ -37,6 +37,21 @@ namespace DAL
                 //cmd.CommandType = CommandType.StoredProcedure;
         }
 
+        public static void DeleteEntry(object sender)
+        {
+            throw new NotImplementedException();
+        }
+
+        public static void UpdateEntry(object sender)
+        {
+            throw new NotImplementedException();
+        }
+
+        public static void AddEntry(Record record)
+        {
+            throw new NotImplementedException();
+        }
+
         public static int IsRegisteredUser(User user)
         {
             string cs = ConfigurationManager.ConnectionStrings["DBCS"].ConnectionString;

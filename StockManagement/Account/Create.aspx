@@ -8,7 +8,7 @@
             <table>
                 <tr>
                     <td>
-                        <asp:Label ID="Label1" runat="server" Text="Name:"></asp:Label>
+                        <asp:Label ID="Label1" runat="server" Text="User Name:"></asp:Label>
                     </td><td>
                         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
                     </td>
